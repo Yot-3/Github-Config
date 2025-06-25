@@ -3,7 +3,7 @@
 ---
 
 ### 🌐 Connect with me:
-[![Gmail Badge](https://img.shields.io/badge/-contact@rafaelamaral.dev-c14438?logo=Gmail&logoColor=white&link=mailto:contact@rafaelamaral.dev)](mailto:gpagework@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-gpagework@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:gpagework@gmail.com)](mailto:gpagework@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gavynpage) 
 
 ---
